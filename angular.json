@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "AgularP3"
+  "defaultProject": "AgularP3",
+  "cli": {
+    "analytics": false
+  }
 }
